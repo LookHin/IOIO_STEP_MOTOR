@@ -4,12 +4,12 @@ IOIO_STEP_MOTOR
 IOIO STEP MOTOR (ULN2003 Driver)
 
 ## PIN MAP
-IN 1 = PIN 1
-IN 2 = PIN 2
-IN 3 = PIN 3
-IN 4 = PIN 4
-VCC = 5V
-GND = GND
+IN 1 = PIN 1  
+IN 2 = PIN 2  
+IN 3 = PIN 3  
+IN 4 = PIN 4  
+VCC = 5V  
+GND = GND  
 
 ## Screenshot
 
