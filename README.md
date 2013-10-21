@@ -1,7 +1,7 @@
 IOIO_STEP_MOTOR
 ======================
 
-IOIO STEP MOTOR (ULN2003 Driver)
+IOIO STEP MOTOR (ULN2003 Driver) (Control the hardware by Android application and IOIO board)
 
 ## PIN MAP
 IN 1 = PIN 1  
