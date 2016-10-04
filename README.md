@@ -1,4 +1,4 @@
-IOIO_STEP_MOTOR
+IOIO_STEP_MOTOR [No Maintenance]
 ======================
 
 IOIO STEP MOTOR (ULN2003 Driver) (Control the hardware by Android application and IOIO board)
